@@ -10,4 +10,4 @@ output application/json
     //Here I written if else condition to got the desired o/p 
     status:if($.marks >= 60) "pass" else "fail"
 
-})2:13 PM 5/10/2023
+})
