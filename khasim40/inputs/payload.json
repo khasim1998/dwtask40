@@ -1,0 +1,20 @@
+[
+    {
+    "id": 100,
+    "name": "khasim",
+    "org":"tcs",
+    "marks": 60
+},
+{
+    "id": 101,
+    "name": "vasavi",
+    "org":"tcs",
+    "marks": 70
+},
+{
+    "id": 10011,
+    "name": "siresha",
+    "org":"tcs",
+    "marks": 40
+}
+]
